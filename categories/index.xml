@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on 可知杂志</title>
+    <link>https://xidtao.github.io/categories/</link>
+    <description>Recent content in Categories on 可知杂志</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Thu, 27 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://xidtao.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Health</title>
+      <link>https://xidtao.github.io/categories/health/</link>
+      <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://xidtao.github.io/categories/health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>livingworld</title>
+      <link>https://xidtao.github.io/categories/livingworld/</link>
+      <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://xidtao.github.io/categories/livingworld/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sustainbility</title>
+      <link>https://xidtao.github.io/categories/sustainbility/</link>
+      <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://xidtao.github.io/categories/sustainbility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>society</title>
+      <link>https://xidtao.github.io/categories/society/</link>
+      <pubDate>Tue, 25 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://xidtao.github.io/categories/society/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>technology</title>
+      <link>https://xidtao.github.io/categories/technology/</link>
+      <pubDate>Tue, 25 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://xidtao.github.io/categories/technology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>themind</title>
+      <link>https://xidtao.github.io/categories/themind/</link>
+      <pubDate>Fri, 21 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://xidtao.github.io/categories/themind/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>physicalworld</title>
+      <link>https://xidtao.github.io/categories/physicalworld/</link>
+      <pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://xidtao.github.io/categories/physicalworld/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
