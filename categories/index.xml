@@ -6,15 +6,24 @@
     <description>Recent content in Categories on 可知杂志</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Thu, 27 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://xidtao.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>themind</title>
+      <link>https://xidtao.github.io/categories/themind/</link>
+      <pubDate>Thu, 09 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://xidtao.github.io/categories/themind/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>health&#43;disease</title>
       <link>https://xidtao.github.io/categories/health&#43;disease/</link>
-      <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>https://xidtao.github.io/categories/health&#43;disease/</guid>
       <description></description>
@@ -23,54 +32,45 @@
     <item>
       <title>life-world</title>
       <link>https://xidtao.github.io/categories/life-world/</link>
-      <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>https://xidtao.github.io/categories/life-world/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>sustainbility</title>
-      <link>https://xidtao.github.io/categories/sustainbility/</link>
-      <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
+      <title>physical-world</title>
+      <link>https://xidtao.github.io/categories/physical-world/</link>
+      <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://xidtao.github.io/categories/sustainbility/</guid>
+      <guid>https://xidtao.github.io/categories/physical-world/</guid>
       <description></description>
     </item>
     
     <item>
       <title>society</title>
       <link>https://xidtao.github.io/categories/society/</link>
-      <pubDate>Tue, 25 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>https://xidtao.github.io/categories/society/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>sustainbility</title>
+      <link>https://xidtao.github.io/categories/sustainbility/</link>
+      <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://xidtao.github.io/categories/sustainbility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>technology</title>
       <link>https://xidtao.github.io/categories/technology/</link>
-      <pubDate>Tue, 25 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 24 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://xidtao.github.io/categories/technology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>themind</title>
-      <link>https://xidtao.github.io/categories/themind/</link>
-      <pubDate>Fri, 21 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://xidtao.github.io/categories/themind/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>physical-world</title>
-      <link>https://xidtao.github.io/categories/physical-world/</link>
-      <pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://xidtao.github.io/categories/physical-world/</guid>
       <description></description>
     </item>
     
