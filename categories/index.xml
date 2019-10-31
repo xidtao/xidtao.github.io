@@ -6,53 +6,53 @@
     <description>Recent content in Categories on 可知杂志</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Thu, 09 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://xidtao.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>themind</title>
-      <link>https://xidtao.github.io/categories/themind/</link>
-      <pubDate>Thu, 09 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://xidtao.github.io/categories/themind/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>health&#43;disease</title>
       <link>https://xidtao.github.io/categories/health&#43;disease/</link>
-      <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://xidtao.github.io/categories/health&#43;disease/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>life-world</title>
-      <link>https://xidtao.github.io/categories/life-world/</link>
-      <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
+      <title>society</title>
+      <link>https://xidtao.github.io/categories/society/</link>
+      <pubDate>Tue, 03 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://xidtao.github.io/categories/life-world/</guid>
+      <guid>https://xidtao.github.io/categories/society/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>themind</title>
+      <link>https://xidtao.github.io/categories/themind/</link>
+      <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://xidtao.github.io/categories/themind/</guid>
       <description></description>
     </item>
     
     <item>
       <title>physical-world</title>
       <link>https://xidtao.github.io/categories/physical-world/</link>
-      <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 22 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://xidtao.github.io/categories/physical-world/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>society</title>
-      <link>https://xidtao.github.io/categories/society/</link>
-      <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
+      <title>life-world</title>
+      <link>https://xidtao.github.io/categories/life-world/</link>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://xidtao.github.io/categories/society/</guid>
+      <guid>https://xidtao.github.io/categories/life-world/</guid>
       <description></description>
     </item>
     
